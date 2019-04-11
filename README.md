@@ -1,7 +1,7 @@
 # Battleship_Server
 server managing battleship game
 
-server is using winsock lib for socket communication
+using winsock lib for socket communication
 
 server takes care of managing game logic, authenticated players can create new game room with spots for opponent and observers, where those can chat and participate in game session
 
