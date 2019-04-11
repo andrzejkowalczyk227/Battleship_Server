@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  winsocktest.cpp
+x:\studia\z16-17\sieci\consoleapplication1\consoleapplication1\serverclass.h(8): warning C4005: 'DEFAULT_BUFLEN': macro redefinition
+  x:\studia\z16-17\sieci\consoleapplication1\consoleapplication1\sockethelper.h(10): note: see previous definition of 'DEFAULT_BUFLEN'
+  Generating Code...
+  Compiling...
+  ServerClass.cpp
+x:\studia\z16-17\sieci\consoleapplication1\consoleapplication1\serverclass.h(8): warning C4005: 'DEFAULT_BUFLEN': macro redefinition
+  x:\studia\z16-17\sieci\consoleapplication1\consoleapplication1\sockethelper.h(10): note: see previous definition of 'DEFAULT_BUFLEN'
+x:\studia\z16-17\sieci\consoleapplication1\consoleapplication1\serverclass.cpp(248): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+x:\studia\z16-17\sieci\consoleapplication1\consoleapplication1\serverclass.cpp(270): warning C4018: '<': signed/unsigned mismatch
+x:\studia\z16-17\sieci\consoleapplication1\consoleapplication1\serverclass.cpp(392): warning C4018: '<': signed/unsigned mismatch
+x:\studia\z16-17\sieci\consoleapplication1\consoleapplication1\serverclass.cpp(417): warning C4018: '<': signed/unsigned mismatch
+x:\studia\z16-17\sieci\consoleapplication1\consoleapplication1\serverclass.cpp(419): warning C4018: '<': signed/unsigned mismatch
+x:\studia\z16-17\sieci\consoleapplication1\consoleapplication1\serverclass.cpp(453): warning C4018: '<=': signed/unsigned mismatch
+x:\studia\z16-17\sieci\consoleapplication1\consoleapplication1\serverclass.cpp(480): warning C4018: '<=': signed/unsigned mismatch
+x:\studia\z16-17\sieci\consoleapplication1\consoleapplication1\serverclass.cpp(483): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+  ConsoleApplication1.vcxproj -> X:\Studia\Z16-17\sieci\ConsoleApplication1\Debug\WinsockTest.exe
